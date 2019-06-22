@@ -1,0 +1,19 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "First Project with reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cette/react_first_project.git"
+  },
+  "author": "Raúl Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cette/react_first_project/issues"
+  },
+  "homepage": "https://github.com/cette/react_first_project#readme"
+}
