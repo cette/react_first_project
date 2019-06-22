@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/cette/react_first_project/issues"
   },
-  "homepage": "https://github.com/cette/react_first_project#readme"
+  "homepage": "https://github.com/cette/react_first_project#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.4",
+    "xxxxx": "^1.0.3"
+  }
 }
