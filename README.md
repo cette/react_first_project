@@ -29,6 +29,9 @@ sudo npm install -D webpack-cli
 
 
 #FAQ
-There are problems to install webpack about dependencies or version
+#There are problems to install webpack about dependencies or version
 
 sudo npm install --save-dev xxxxx
+
+
+#ERROR in Entry module not found: Error: Can't resolve

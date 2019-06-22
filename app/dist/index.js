@@ -1,2 +1,2 @@
-require('./modeule1.js');ç
-require('./modeule2.js');
+require('./module1.js');
+require('./module2.js');
